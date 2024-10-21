@@ -192,11 +192,11 @@ Ingresa tu nombre de usuario y contraseña cuando se te pida.
 
 # 7.2. Etiqueta la imagen:
 bash
-docker tag node-app:1.0 gustavoquintero/node-app:1.0
+docker tag node-app:1.0 usuariodocker/node-app:1.0
 
 # 7.3. Sube la imagen a Docker Hub:
 bash
-docker push gustavoquintero/node-app:1.0
+docker push usuariodocker/node-app:1.0
 Captura sugerida: Toma una captura de la salida de docker push mostrando que la imagen ha sido subida exitosamente.
 
 # 8. Verificar la imagen en Docker Hub
@@ -226,6 +226,6 @@ docker stop <container_id>
 Subir la imagen a Docker Hub:
 
 bash
-docker push gustavoquintero/node-app:1.0
+docker push usuariodocker/node-app:1.0
 ¡Gracias por seguir esta guía! Si tienes algún problema o duda, siéntete libre de abrir un issue.
 
