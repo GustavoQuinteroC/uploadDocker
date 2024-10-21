@@ -1,4 +1,6 @@
 # Aplicación Node.js con Docker - Ejemplo de Contenedorización
+![image](https://github.com/user-attachments/assets/1932fa49-f714-4578-9fc7-f2105f24f6a2)
+
 
 Este proyecto es un ejemplo sencillo de cómo crear una aplicación Node.js, contenerizarla usando Docker, y luego subir la imagen a Docker Hub. La aplicación simplemente responde con un mensaje cuando se accede a ella a través del navegador.
 
